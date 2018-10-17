@@ -1,1 +1,1 @@
-worker: node ml5om1.js
+worker: node st2.js
